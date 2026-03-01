@@ -1,2 +1,4 @@
+[
 	{ id: 1, name: "Minecraft Tuff JS" }
 	{ id: 2, name: "Minecraft Tuff WASM" }
+]
