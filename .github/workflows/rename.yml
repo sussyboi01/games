@@ -42,7 +42,7 @@ jobs:
 
               zones.append({
                   "id": i,
-                  "old_name": filename
+                  "name": filename
               })
 
           with open("zones.json", "w") as f:
