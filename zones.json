@@ -1,10 +1,10 @@
 [
   {
     "id": 1,
-    "name": "Tuff Client JS"
+    "name": "1.html"
   },
   {
     "id": 2,
-    "name": "Tuff_Client Offline WASM"
+    "name": "2.html"
   }
 ]
